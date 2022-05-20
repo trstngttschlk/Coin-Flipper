@@ -11,6 +11,7 @@ let tailsInt = 0
 headCount.innerText = headInt
 tailsCount.innerText = tailsInt
 
+// function to flip coin
 function flipCoin(){
     let flip = Math.random()
     let result
